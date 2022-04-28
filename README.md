@@ -172,6 +172,23 @@ Arquitetura
 
 ![Arquitetura](https://drive.google.com/file/d/1GKb-tg8nxm7tCXvGZi6-v7uPonkDcDUf/view?usp=sharing)
 
+
+Tecnologias e Ferramentas
+=================
+
+<p>As seguintes ferramentas foram usadas na construção do projeto:</p>
+
+- [Docker](https://www.docker.com/)
+- [NodeJS](https://nodejs.org/en/)
+- [Next JS](https://nextjs.org/)
+- [TypeOrm](https://typeorm.io/)
+- [Jest](https://jestjs.io/pt-BR/)
+- [Swagger](https://swagger.io/)
+- [Trello](https://trello.com/pt-BR)
+- [PostgresSQL](https://www.postgresql.org/)
+- [Heroku](https://www.heroku.com/)
+- [Vercel:](https://vercel.com/)
+
 Stories
 =================
 
