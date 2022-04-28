@@ -8,7 +8,7 @@
 Tabela de conteúdos
 =================
 <!--ts-->
-   * [Sobre](#Sobre)
+   * [Definition of Done](#DoD)
    * [Tabela de Conteudo](#tabela-de-conteudo)
    * [Instalação](#instalacao)
    * [Como usar](#como-usar)
@@ -22,5 +22,4 @@ Tabela de conteúdos
 <!--te-->
 
 
-
-# Sobre
+[Definition of Done](#DoD)
