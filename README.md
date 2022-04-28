@@ -135,7 +135,30 @@ Em caso de mudanças de requisitos
 
 Reuniões
 =================
-
+<table border="1">
+<tr>
+  <th>Descrição</th>
+  <th>Data</th>
+</tr>
+<tr>
+  <td>Reunião de planejamento de estimativas</td>
+  <td>27/04/2022</td>
+<tr>
+  <tr>
+  <td>Reunião de planejamento de sprint</td>
+  <td>28/04/2022</td>
+<tr>
+  <tr>
+  <tr>
+  <td>Daily scrum</td>
+  <td>Todas segundas e quintas no máximo 15 minutos</td>
+<tr>
+  <tr>
+  <tr>
+  <td>Reunião de revisão da Sprint realizada</td>
+  <td> </td>
+<tr>
+</table>
 
 Dev Team
 =================
