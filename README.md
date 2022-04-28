@@ -14,7 +14,7 @@ Menu
       * [Release](#Release)
       * [Em Caso de Mudanças de Requisitos](#Em-Caso-de-Mudanças-de-Requisitos)
    * [Reuniões](#tabela-de-conteudo)
-   * [Dev Team](#Dev_Team)
+   * [Dev Team](#Dev-Team)
    * [Arquitetura](#Arquitetura)
    * [Tecnologias e Ferramentas](#Tecnologias-e-Ferramentas)
    * [Stories](#como-usar)
@@ -175,7 +175,7 @@ Arquitetura
 Stories
 =================
 
-Requisitos Não Funcionainais
+Requisitos Não Funcionais
 =================
 
 <table border="1">
