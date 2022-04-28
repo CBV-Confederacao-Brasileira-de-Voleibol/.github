@@ -178,8 +178,8 @@ Tecnologias e Ferramentas
 
 <p>As seguintes ferramentas foram usadas na construção do projeto:</p>
 
-- [Docker](https://www.docker.com/)
-- [NodeJS](https://nodejs.org/en/)
+- [Docker](https://www.docker.com/) 
+- [NodeJS](https://nodejs.org/en/) 
 - [Next JS](https://nextjs.org/)
 - [TypeOrm](https://typeorm.io/)
 - [Jest](https://jestjs.io/pt-BR/)
@@ -205,7 +205,7 @@ User Stories
     
         - Tasks (T1) - Criar a Interface de login do administrador.
         - Tasks (T2) - Criar a rota de login.
-        - 
+        
     - User Estória (US 2) - Usuário administrador precisa castrar uma competição para que as equipes possam participar, a competição pode ser definida como masculina ou feminina.
     
         - Tasks (T1) - Criar Interface de cadastro de Competições.
@@ -252,12 +252,12 @@ User Stories
     - User Estória (US 9) - O  usuários administrador precisa finalizar a fase classificatória e o  sistema precisa gerar o chaveamento da fase mata-mata para que as equipes possam saber os seus adversários 
     
         - Tasks (T1) - Criar Interface para finalizar a parte Classificatória de uma competição.
-        - Tasks (T2) - Criar Interface De chaveamento do   mata-mata.
+        - Tasks (T2) - Criar Interface De chaveamento do mata-mata.
         - Tasks (T3) - Criar rota que finaliza uma fase classificatória.
         - Tasks (T4) - Criar rota que gera o Chaveamento do mata-mata.
 
 
- 	- User Estória (US 10) - os usuários comuns precisam  verificar os desempenhas dos principais jogadores da competição.
+ - User Estória (US 10) - os usuários comuns precisam  verificar os desempenhas dos principais jogadores da competição.
  	
       - Tasks (T1) - Criar tela de relatórios.
       - Tasks (T2) - Criar rota que gera relatórios.
