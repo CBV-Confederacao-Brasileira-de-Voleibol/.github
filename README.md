@@ -142,8 +142,8 @@ Dev Team
 
 <table border="1">
 <tr>
-<th>Nome</th>
-<th>Cargo</th>
+  <th>Nome</th>
+  <th>Cargo</th>
 </tr>
 <tr>
   <td>Matheus souza</td>
