@@ -189,7 +189,7 @@ Tecnologias e Ferramentas
 - [Heroku](https://www.heroku.com/)
 - [Vercel:](https://vercel.com/)
 
-Stories
+User Stories
 =================
 
 Requisitos Não Funcionais
