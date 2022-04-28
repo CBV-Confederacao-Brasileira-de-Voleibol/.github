@@ -129,7 +129,7 @@ Em caso de mudanças de requisitos
 
 👉 Deve ser analisado se a mudança entra na sprint atual ou na próxima.
 
-👉 Em caso da mudança entrar no sprint atual deve ser analisado se existe a necessidade de aumentar o tempo da sprint ou não. 
+👉 Caso a mudança tenha  necessidade de entrar no sprint atual deve ser analisado se existe a necessidade de aumentar o tempo da sprint ou não. 
 
 👉 Aprovação do Dev Team e Product Owner. 
 
