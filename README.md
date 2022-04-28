@@ -145,9 +145,37 @@ Reuniões
 Dev Team
 =================
 
+<table border="1">
+<tr>
+<th>Nome</th>
+<th>Cargo</th>
+</tr>
+<tr>
+  <td>Matheus souza</td>
+  <td>Scrum Master</td>
+<tr>
+  <tr>
+  <td>Luana Gomes</td>
+  <td>Especialista em testes QA</td>
+<tr>
+  <tr>
+  <tr>
+  <td>Yan e Wesley</td>
+  <td>Implementador Front-En</td>
+<tr>
+  <tr>
+  <tr>
+  <td>Murilo Andrade e  Matheus Souza</td>
+  <td>Implementador Back-End </td>
+<tr>
+</table>
+
+
 
 Arquitetura
 =================
+
+![Thiago Marinho](https://drive.google.com/file/d/1GKb-tg8nxm7tCXvGZi6-v7uPonkDcDUf/view?usp=sharing)
 
 Stories
 =================
@@ -155,17 +183,32 @@ Stories
 Requisitos Não Funcionainais
 =================
 
-
-⚪ RNF 01 - Permitir acesso via a qualquer browser.
-
-⚪ RNF 02- O sistema deve apresentar o mínimo possível de falhas, mas não garante que o mesmo não esteja livre de erros ou interrupções.
-
-⚪ RNF 03 - Qualquer funcionalidade de cadastros, devem ser realizadas por usuários autenticados. 
-
-⚪ RNF 04 - O sistema deve facilitar a utilização e compreensão de sua interface por parte dos usuários, além de buscar facilitar que o utilizador tenha em alcançar os seus objetivos.
-
-⚪ RNF 05 - O sistema deve estar disponível 24 horas por dia em todos os dias, inclusive domingo e feriados.
-
+<table border="1">
+<tr>
+  <th>Código</th>
+  <th>Descrição</th>
+</tr>
+<tr>
+    <td>RNFx 1</td>
+    <td>Permitir acesso via a qualquer browser</td>
+</tr>
+<tr>
+    <td>RNFx 2</td>
+    <td>O sistema deve apresentar o mínimo possível de falhas, mas não garante que o mesmo não esteja livre de erros ou interrupções</td>
+</tr>
+<tr>
+    <td>RNFx 3</td>
+    <td>Qualquer funcionalidade de cadastros, devem ser realizadas por usuários autenticados</td>
+</tr>
+<tr>
+    <td>RNFx 4</td>
+    <td>O sistema deve facilitar a utilização e compreensão de sua interface por parte dos usuários, além de buscar facilitar que o utilizador tenha em alcançar os seus objetivos</td>
+</tr>
+<tr>
+    <td>RNFx 5</td>
+    <td>O sistema deve estar disponível 24 horas por dia em todos os dias, inclusive domingo e feriados</td>
+</tr>
+</table>
 
 
 Riscos
@@ -173,11 +216,11 @@ Riscos
 
 <table border="1">
 <tr>
-  <td>Código</td>
-  <td>Descrição</td>
-  <td>Impacto</td>
-  <td>Ação</td>
-  <td>Descrição da Ação</td>
+  <th>Código</th>
+  <th>Descrição</th>
+  <th>Impacto</th>
+  <th>Ação</th>
+  <th>Descrição da Ação</th>
 </tr>
 <tr>
   <td>Rx 1</td>
