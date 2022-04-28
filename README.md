@@ -17,7 +17,7 @@ Menu
    * [Dev Team](#Dev-Team)
    * [Arquitetura](#Arquitetura)
    * [Tecnologias e Ferramentas](#Tecnologias-e-Ferramentas)
-   * [Stories](#como-usar)
+   * [User Stories](#User-Stories)
    * [Requisitos Não Funcionais](#Requisitos-Não-Funcionais)
    * [Riscos](#Riscos)
 <!--te-->
