@@ -5,25 +5,20 @@
 <p>Projeto da disciplina  Tópicos Especiais em Engenharia de Software, compreende um sistema web para gerenciamento e controle da SUPERLIGA BRASILEIRA DE VÔLEI, sobre a Orietação do professor Alexandre Rafael Lenz</p>
 
 
-Tabela de conteúdos
+Menu
 =================
 <!--ts-->
    * [Definition of Done](#Definition-of-Done)
       * [Estória](#Estória)
       * [Sprint](#Sprint)
       * [Release](#Release)
-      * [Em Caso de Mudanças de Requisitos](#Em_Caso_de_Mudanças_de_Requisitos)
+      * [Em Caso de Mudanças de Requisitos](#Em-Caso-de-Mudanças-de-Requisitos)
    * [Reuniões](#tabela-de-conteudo)
    * [Dev Team](#Dev_Team)
    * [Arquitetura](#Arquitetura)
-   * [Tecnologias e Ferramentas](#Tecnologias_e_Ferramentas)
+   * [Tecnologias e Ferramentas](#Tecnologias-e-Ferramentas)
    * [Stories](#como-usar)
-      * [Pre Requisitos](#pre-requisitos)
-      * [Local files](#local-files)
-      * [Remote files](#remote-files)
-      * [Multiple files](#multiple-files)
-      * [Combo](#combo)
-   * [Requisitos Não Funcionais](#Requisitos_Não_Funcionais)
+   * [Requisitos Não Funcionais](#Requisitos-Não-Funcionais)
    * [Riscos](#Riscos)
 <!--te-->
 
@@ -175,7 +170,7 @@ Dev Team
 Arquitetura
 =================
 
-![Thiago Marinho](https://drive.google.com/file/d/1GKb-tg8nxm7tCXvGZi6-v7uPonkDcDUf/view?usp=sharing)
+![Arquitetura](https://drive.google.com/file/d/1GKb-tg8nxm7tCXvGZi6-v7uPonkDcDUf/view?usp=sharing)
 
 Stories
 =================
