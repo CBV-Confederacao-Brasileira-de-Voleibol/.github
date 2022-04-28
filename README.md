@@ -366,4 +366,33 @@ Riscos
 </table>
 
 
+Estimativas
+================
+
+<table border="1"> 
+  <th> (US 1)- Dev teams precisa modelar o Diagrama de entidade-relacionamento para criação do banco de dados.  </th>
+<tr>
+  <th>Código</th>
+  <th>Descrição</th>
+  <th>Responsável</th>
+  <th>Estimativa de tempo</th>
+  <th>Temporeal</th>
+</tr>
+<tr>
+    <td>T1</td>
+    <td>Criar entidade-relacionamento. </td>
+    <td></td>
+    <td> 1 hora </td>
+    <td></td>
+</tr>
+<tr>
+    <td>T2</td>
+    <td>Gerar tabelas no banco de dados</td>
+    <td></td>
+    <td> 10 minutos </td>
+    <td></td>
+</tr>
+
+</table>
+
 
