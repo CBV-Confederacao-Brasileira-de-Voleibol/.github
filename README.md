@@ -192,6 +192,77 @@ Tecnologias e Ferramentas
 User Stories
 =================
 
+- Épico (EP 1)- Sprint 1 : Modelagem de banco de dados e Registros de Competições , Equipes e Membros da equipe.
+
+		
+    - User Estória (US 1) - Dev teams precisa modelar o Diagrama de entidade-relacionamento para criação do banco de dados. 
+      
+        - Tasks (T1) - Criar entidade-relacionamento.
+        - Tasks (T2) - Gerar tabelas no banco de dados.
+
+		
+    - User Estória (US 2) - Usuário administrador precisa acessar os sistemas para realizar as suas atividades de castro.   
+    
+        - Tasks (T1) - Criar a Interface de login do administrador.
+        - Tasks (T2) - Criar a rota de login.
+        - 
+    - User Estória (US 2) - Usuário administrador precisa castrar uma competição para que as equipes possam participar, a competição pode ser definida como masculina ou feminina.
+    
+        - Tasks (T1) - Criar Interface de cadastro de Competições.
+        - Tasks (T2) - Criar rota de cadastro  de Competições.
+        - Tasks (T3) - Criar interface de competições cadastradas.
+        - Tasks (T4) - Criar rota de competições cadastradas.
+
+     
+
+    - User Estória (US 4 ) - Usuário administrador precisa castrar as equipes para que as   mesmas possam participar da competição. 
+      
+         - Tasks (T1) - Criar Interface de cadastro de equipes.
+         - Tasks (T2) - Criar rota de cadastro  de equipes.
+         - Tasks (T3) - Criar interface de equipes cadastradas.
+         - Tasks (T4) - Criar rota de equipes cadastradas.
+         
+         
+    - User Estória (US 5) - Usuário administrador precisa castrar membros da equipe para que os mesmos possam participar da competição, os membros são classificados com Atletas, Técnicos  e Auxiliares.   
+   
+        - Tasks (T1) - Criar Interface de cadastro de membros.
+        - Tasks (T2) - Criar rota de cadastro  de membros.
+        - Tasks (T3) - Criar Interface de membros castrados de uma equipe.
+        - Tasks (T4) - Criar rota de membros castrados de uma equipe.
+
+- Épico (EP 2)- Sprint 2  : Iniciar um Competição,  Cadastro dos Resultados  das Partidas E Relatórios  estatísticas
+
+    - User Estória (US 6) - O usuário administrador precisar iniciar uma competição  precisa gerar as partidas para que os times possam saber data e hora das suas partidas durante a competição.
+    
+        - Tasks (T1) - Criar Interface com tabela(partidas) dos jogos.
+        - Tasks (T2) - Criar rota que geras as partidas das equipes participantes.
+        - Tasks (T2) - Criar rota de partidas cadastradas de uma competição.
+
+    - User Estória (US 7)-  Usuário administrador precisa cadastrar os resultados das partidas para que os demais usuários possam consultar os resultados.
+      
+        - Tasks (T1) - Criar Interface de cadastro de resultados de jogos.
+        - Tasks (T2) - Criar rota de cadastro de resultados de jogos.
+
+    - User Estória (US 8) - Usuário administrador precisa cadastrar as estáticas que cada  jogador  obteve durante uma partida para que possa gerar os relatórios estáticos dos jogadores. 
+    
+        - Tasks (T1) - Criar Interface de cadastro de estatísticas.
+        - Tasks (T2) - Criar rota de cadastro de estatísticas.
+
+
+    - User Estória (US 9) - O  usuários administrador precisa finalizar a fase classificatória e o  sistema precisa gerar o chaveamento da fase mata-mata para que as equipes possam saber os seus adversários 
+    
+        - Tasks (T1) - Criar Interface para finalizar a parte Classificatória de uma competição.
+        - Tasks (T2) - Criar Interface De chaveamento do   mata-mata.
+        - Tasks (T3) - Criar rota que finaliza uma fase classificatória.
+        - Tasks (T4) - Criar rota que gera o Chaveamento do mata-mata.
+
+
+ 	- User Estória (US 10) - os usuários comuns precisam  verificar os desempenhas dos principais jogadores da competição.
+ 	
+      - Tasks (T1) - Criar tela de relatórios.
+      - Tasks (T2) - Criar rota que gera relatórios.
+
+
 Requisitos Não Funcionais
 =================
 
