@@ -224,12 +224,12 @@ User Stories
         - Tasks (T2) - Gerar tabelas no banco de dados.
 
 		
-    - User Estória (US 2) - Usuário administrador precisa acessar os sistemas para realizar as suas atividades de castro.   
+    - User Estória (US 2) - Usuário administrador precisa acessar os sistemas para realizar as suas atividades de cadastro.   
     
         - Tasks (T1) - Criar a Interface de login do administrador.
         - Tasks (T2) - Criar a rota de login.
         
-    - User Estória (US 2) - Usuário administrador precisa castrar uma competição para que as equipes possam participar, a competição pode ser definida como masculina ou feminina.
+    - User Estória (US 2) - Usuário administrador precisa cadastrar uma competição para que as equipes possam participar, a competição pode ser definida como masculina ou feminina.
     
         - Tasks (T1) - Criar Interface de cadastro de Competições.
         - Tasks (T2) - Criar rota de cadastro  de Competições.
@@ -238,7 +238,7 @@ User Stories
 
      
 
-    - User Estória (US 4 ) - Usuário administrador precisa castrar as equipes para que as   mesmas possam participar da competição. 
+    - User Estória (US 4 ) - Usuário administrador precisa cadastrar as equipes para que as   mesmas possam participar da competição. 
       
          - Tasks (T1) - Criar Interface de cadastro de equipes.
          - Tasks (T2) - Criar rota de cadastro  de equipes.
@@ -246,7 +246,7 @@ User Stories
          - Tasks (T4) - Criar rota de equipes cadastradas.
          
          
-    - User Estória (US 5) - Usuário administrador precisa castrar membros da equipe para que os mesmos possam participar da competição, os membros são classificados com Atletas, Técnicos  e Auxiliares.   
+    - User Estória (US 5) - Usuário administrador precisa cadastrar membros da equipe para que os mesmos possam participar da competição, os membros são classificados com Atletas, Técnicos  e Auxiliares.   
    
         - Tasks (T1) - Criar Interface de cadastro de membros.
         - Tasks (T2) - Criar rota de cadastro  de membros.
