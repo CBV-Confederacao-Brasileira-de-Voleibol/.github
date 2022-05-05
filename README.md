@@ -13,7 +13,7 @@ Menu
       * [Sprint](#Sprint)
       * [Release](#Release)
       * [Em Caso de Mudanças de Requisitos](#Em-Caso-de-Mudanças-de-Requisitos)
-   * [Reuniões](#tabela-de-conteudo)
+   * [Reuniões](#Reuniões)
    * [Dev Team](#Dev-Team)
    * [Arquitetura](#Arquitetura)
    * [Tecnologias e Ferramentas](#Tecnologias-e-Ferramentas)
